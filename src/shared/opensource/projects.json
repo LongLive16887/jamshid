@@ -2,123 +2,78 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "SumSwap",
+      "createdAt": "2024-06-06",
+      "url": "https://github.com/Jamshidmirzo/converter_app",
+      "description": "A currency converter app enables users to convert amounts between different currencies in real-time, using up-to-date exchange rates. It features a simple interface for selecting currencies and entering amounts, providing instant conversion results.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Flutter",
+          "iconifyClass": "simple-icons:flutter"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Tadbiro",
+      "createdAt": "2024-07-07",
+      "url": "https://github.com/Jamshidmirzo/new_tadbiro",
+      "description": "An event app helps users discover, organize, and manage events. It typically features event listings, location maps, registration options, and calendar integration. Users can view event details, RSVP, and receive notifications about updates or changes. The app may also allow event creation and management for organizers.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "simple-icons:flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Telegram",
+      "createdAt": "2024-07-01",
+      "url": "https://github.com/Jamshidmirzo/chat",
+      "description": "An analog of Telegram is a messaging app that enables users to communicate through text, voice, and video messages. It includes features like group chats, channels, multimedia sharing, and secure messaging. Users can create and join groups, follow channels, and customize their chat experience with stickers and themes. The app emphasizes fast, reliable messaging and offers end-to-end encryption for privacy.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Flutter",
+          "iconifyClass": "simple-icons:flutter"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Basics of general army battle",
+      "createdAt": "2024-02-21",
+      "url": "https://drive.google.com/file/d/1_pD-HvjB6Ay-t8jFN8kj3dHaKMNCsHdz/view",
+      "description": "This book is a vital resource for students aspiring to join the armed forces. It provides a thorough preparation guide with detailed coverage of essential military knowledge, including history, strategy, and protocols. The book includes practice tests, study tips, and exercises to help students master critical concepts and develop the skills needed for military success. With insights from experienced military professionals and up-to-date information on current practices, this guide is designed to equip future leaders with the knowledge and confidence required for a successful career in the military.",
       "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
+      "languages": []
     }
   ]
 }

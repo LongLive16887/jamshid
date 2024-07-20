@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "files": [
+    "../../../../package.json",
+    "../../../../src/shared/opensource/projects.json",
+    "../../chunks/498.js",
+    "../../chunks/822.js",
+    "../../chunks/840.js",
+    "../../chunks/971.js",
+    "../../webpack-runtime.js"
+  ]
+}

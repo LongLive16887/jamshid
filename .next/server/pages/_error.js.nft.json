@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "files": [
+    "../chunks/840.js",
+    "../webpack-runtime.js"
+  ]
+}

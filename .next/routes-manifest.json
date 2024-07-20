@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "basePath": "",
+  "caseSensitive": false,
+  "dataRoutes": [],
+  "dynamicRoutes": [],
+  "headers": [],
+  "pages404": true,
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "rewrites": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc"
+  },
+  "staticRoutes": [
+    {
+      "page": "/contact/AddressImg",
+      "regex": "^/contact/AddressImg(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact/AddressImg(?:/)?$"
+    },
+    {
+      "page": "/contact/BlogsImg",
+      "regex": "^/contact/BlogsImg(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact/BlogsImg(?:/)?$"
+    },
+    {
+      "page": "/contact/ContactComponent",
+      "regex": "^/contact/ContactComponent(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact/ContactComponent(?:/)?$"
+    },
+    {
+      "page": "/education/EducationComponent",
+      "regex": "^/education/EducationComponent(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/education/EducationComponent(?:/)?$"
+    },
+    {
+      "page": "/education/EducationImg",
+      "regex": "^/education/EducationImg(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/education/EducationImg(?:/)?$"
+    },
+    {
+      "page": "/errors/error404/Error",
+      "regex": "^/errors/error404/Error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/errors/error404/Error(?:/)?$"
+    },
+    {
+      "page": "/experience/Experience",
+      "regex": "^/experience/Experience(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/experience/Experience(?:/)?$"
+    },
+    {
+      "page": "/experience/ExperienceImg",
+      "regex": "^/experience/ExperienceImg(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/experience/ExperienceImg(?:/)?$"
+    },
+    {
+      "page": "/home/HomeComponent",
+      "regex": "^/home/HomeComponent(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/home/HomeComponent(?:/)?$"
+    },
+    {
+      "page": "/opensource/Opensource",
+      "regex": "^/opensource/Opensource(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/opensource/Opensource(?:/)?$"
+    },
+    {
+      "page": "/projects/Projects",
+      "regex": "^/projects/Projects(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/projects/Projects(?:/)?$"
+    },
+    {
+      "page": "/projects/ProjectsImg",
+      "regex": "^/projects/ProjectsImg(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/projects/ProjectsImg(?:/)?$"
+    },
+    {
+      "page": "/splash/Splash",
+      "regex": "^/splash/Splash(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/splash/Splash(?:/)?$"
+    }
+  ]
+}
