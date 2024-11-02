@@ -163,6 +163,20 @@ const degrees = {
       ],
       website_link: "https://tuit.uz",
     },
+    {
+      title: "Najot ta'lim",
+      subtitle: "Flutter dev",
+      logo_path: "najot_logo.jpg",
+      alt_name: "NAJOT",
+      duration: "2023 - 2024",
+      descriptions: [
+        "⚡️ I have completed the foundational course in Python and C, focusing on essential programming concepts.",
+        "⚡️ Apart from this, I have completed the Flutter Developer course at Najot Ta'lim, gaining expertise in mobile app development.",
+        "⚡️ Additionally, I have in-depth knowledge of software engineering subjects such as Data Structures, Algorithms, DBMS, Operating Systems, Computer Architecture, and Artificial Intelligence, complemented by courses in Deep Learning, Data Science, Cloud Computing, and Full Stack Development.",
+        "⚡️ I am studying Computer Engineering at Tashkent University of Information Technologies, where I earned the Merit cum Means Scholarship (awarded to the top 10%) and received a director’s award for academic excellence.",
+      ],
+      website_link: "https://najottalim.uz",
+    },
   ],
 };
 
@@ -174,6 +188,15 @@ const certifications = {
       logo_path: "rank.png",
       certificate_link: "https://www.hackerrank.com/certificates/ddbfe3a27681",
       alt_name: "Hackerrank",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Najot ta'lim",
+      subtitle: "Flutter dev",
+      logo_path: "najot_logo.jpg",
+      certificate_link:
+        "https://drive.google.com/file/d/1mxK3q6sojVhxV0dFhNnfcJ-UB6jjpbYo/view?usp=sharing",
+      alt_name: "Najot",
       color_code: "#8C151599",
     },
   ],
@@ -192,14 +215,14 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Technical Designer",
-          company: "Printuz",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "print_uz.jpg",
-          duration: "January 2023 - May 2023",
+          title: "Flutter dev",
+          company: "AYTI jobs",
+          company_url: "https://www.aytijobs.uz",
+          logo_path: "ayti_logo.jpg",
+          duration: "October 2024 - Present",
           location: "Tashkent, UZB",
           description:
-            "I developed detailed technical specifications, reviewed and validated design prototypes, conducted quality assurance, and created comprehensive documentation. I collaborated with project managers, designers, and developers to address technical challenges and ensure successful project delivery, applying my technical skills to maintain precision and alignment with requirements.",
+            "In my role as the team lead at Ayti Jobs, I take charge of developing the app for my channel, leading the team in creating detailed technical specifications, reviewing design prototypes, and conducting quality assurance. I oversee comprehensive documentation and collaborate closely with project managers, designers, and developers to resolve technical challenges. By aligning with requirements and applying my technical skills, I ensure successful and precise project delivery.",
           color: "#000000",
         },
       ],
@@ -216,6 +239,17 @@ const experience = {
           location: "Tashkent, UZB",
           description:
             "I collaborated with senior developers to design and implement new features for mobile applications. My responsibilities included bug fixing, performance optimization, code reviews, and documentation. I worked closely with cross-functional teams to ensure project alignment and timely delivery, gaining hands-on experience and enhancing my skills in mobile app development.",
+          color: "#000000",
+        },
+        {
+          title: "Flutter Developer Intern",
+          company: "Dynamic soft",
+          company_url: "https://www.dynamicsoft.uz",
+          logo_path: "soft_logo.png",
+          duration: "September 2024 - October 2024",
+          location: "Tashkent, UZB",
+          description:
+            "During my internship at Dynamic Soft, I deepened my knowledge of Flutter development, focusing on the freezed package for immutable data classes and unions, as well as mastering clean architecture principles. This experience enhanced my ability to implement scalable, maintainable code and reinforced my understanding of structured, efficient project architecture, enabling me to write robust and optimized applications.",
           color: "#000000",
         },
       ],

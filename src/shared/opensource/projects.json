@@ -24,6 +24,28 @@
     },
     {
       "id": "R_kgDOG_vYHA",
+      "name": "Rick and Morty",
+      "createdAt": "2024-09-15",
+      "url": "https://github.com/Jamshidmirzo/rick_and_morty_clean_architecture",
+      "description": "In my Rick and Morty project, I implemented a character exploration app using Flutter and the principles of clean architecture. The app retrieves data from the Rick and Morty API, allowing users to browse character information, episodes, and locations within a well-organized and modular structure. By applying clean architecture, I ensured clear separation of concerns, making the codebase scalable and maintainable. The project also incorporates state management using BLoC, enhancing responsiveness and performance while providing an intuitive and engaging user experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "simple-icons:flutter"
+        },
+        {
+          "name": "Rick and Morty API",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
       "name": "Tadbiro",
       "createdAt": "2024-07-07",
       "url": "https://github.com/Jamshidmirzo/new_tadbiro",

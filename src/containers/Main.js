@@ -4,6 +4,7 @@ import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/education/EducationComponent";
 import Experience from "../pages/experience/Experience";
+// eslint-disable-next-line
 import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
